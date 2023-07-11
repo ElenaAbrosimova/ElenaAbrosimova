@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ## Tools
 ### :wrench: **JIRA**, **Confluence**, **Qase.io**, **Postman**, **Swagger**, **SoapUI**, **SQL**
 
-## Contacts:
+## Contacts
 ### :envelope: telegram @elenaabrosimova09
