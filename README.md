@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👯 Меня зовут Елена!
 
 # Obout me
-😄 Я - будущий инженер-тестировщик!
+:star2: Я - будущий инженер-тестировщик!
 
 # Tools
 **JIRA**, **Confluence**, **Qase.io**, **Postman**, **Swagger**, **SoapUI**, **SQL**
