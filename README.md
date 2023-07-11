@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👯 Меня зовут Елена!
+## 👯 Меня зовут Елена!
 
-# Obout me
-:star2: Я - будущий инженер-тестировщик!
+## Obout me
+### :star2: Я - будущий инженер-тестировщик!
 
-# Tools
-:wrench: **JIRA**, **Confluence**, **Qase.io**, **Postman**, **Swagger**, **SoapUI**, **SQL**
+## Tools
+### :wrench: **JIRA**, **Confluence**, **Qase.io**, **Postman**, **Swagger**, **SoapUI**, **SQL**
 
-# Contacts:
-:envelope: telegram @elenaabrosimova09
+## Contacts:
+### :envelope: telegram @elenaabrosimova09
