@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👯 Меня зовут Елена!
+
+# Obout me
+🔭 Изучаю тестирование и готовлюсь к покорению сферы IT!
+
+# Tools
+**JIRA**, **Confluence**, **Qase.io**, **Postman**, **Swagger**, **SoapUI**, **SQL**
+
+# Contacts:
+telegram @elenaabrosimova09
