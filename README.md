@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 :star2: Я - будущий инженер-тестировщик!
 
 # Tools
-**JIRA**, **Confluence**, **Qase.io**, **Postman**, **Swagger**, **SoapUI**, **SQL**
+:wrench: **JIRA**, **Confluence**, **Qase.io**, **Postman**, **Swagger**, **SoapUI**, **SQL**
 
 # Contacts:
-telegram @elenaabrosimova09
+:envelope: telegram @elenaabrosimova09
