@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :princess: Меня зовут Елена!
+## Меня зовут Елена!
 
 ## Obout me
-### :star2: Я - будущий инженер-тестировщик!
+### Я - начинающий инженер-тестировщик!
 
 ## Tools
 ### :wrench: **JIRA**, **Confluence**, **Qase.io**, **Postman**, **Swagger**, **SoapUI**, **SQL**
